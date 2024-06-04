@@ -87,7 +87,8 @@
     <div class="container">
         <div class="content">
             <header class="logo">
-                <img src="https://raw.githubusercontent.com/najiyameer/logo/main/Logo1.png" alt="Logo">
+                <img src="https://raw.githubusercontent.com/najiyameer/logo/main/Logo1.jpg" alt="Logo">
+
             </header>
 
             <form name="Invoice">
